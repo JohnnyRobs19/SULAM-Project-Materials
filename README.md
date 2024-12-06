@@ -4,7 +4,8 @@ Welcome to the repository for our **SULAM Project**! This repository contains al
 
 ## Project Details
 
-- **Title:** Exploring Computer Science/IT as a Career  
+- **Title:** Exploring Computer Science/IT as a Career
+- **Date:** 9 December 2024  
 - **Collaborator:** Chumbaka Sdn. Bhd.  
 - **Target Audience:** Students of SMK Aminuddin Baki, Kuala Lumpur  
 
